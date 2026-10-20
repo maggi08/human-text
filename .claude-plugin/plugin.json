@@ -1,0 +1,16 @@
+{
+  "$schema": "https://anthropic.com/claude-code/plugin.schema.json",
+  "name": "human-text",
+  "version": "0.1.0",
+  "description": "Write text about a project, feature or task for people (team, manager, newcomer, client): a fact card from the repo, a draft by rules derived from the StoryScope study of how AI text differs from human text, and a clean-context check with closed questions",
+  "author": {
+    "name": "Magzhan Mussaiyn"
+  },
+  "keywords": [
+    "writing",
+    "documentation",
+    "status-update",
+    "ai-text",
+    "style"
+  ]
+}
